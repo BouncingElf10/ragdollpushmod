@@ -44,9 +44,16 @@ neoForge {
             client()
         }
 
+        client2 {
+            client()
+            programArguments.addAll '--username', 'Dev2'
+            gameDirectory = project.file('run-client2')
+        }
+
         server {
             server()
             programArgument '--nogui'
+            gameDirectory = project.file('run-server')
         }
 
         configureEach {
@@ -58,6 +65,12 @@ neoForge {
         "${mod_id}" {
             sourceSet(sourceSets.main)
         }
+    }
+}
+
+tasks.withType(JavaExec).configureEach {
+    doFirst {
+        workingDir.mkdirs()
     }
 }
 
