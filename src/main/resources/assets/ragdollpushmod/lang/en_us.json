@@ -1,0 +1,17 @@
+{
+  "key.categories.ragdollpushmod": "Ragdoll Push",
+  "key.ragdollpushmod.push": "Push Target",
+
+  "hud.ragdollpushmod.push_target": "%s  ·  [%s] Push",
+
+  "ragdollpushmod.configuration.title": "Ragdoll Push Mod",
+  "ragdollpushmod.configuration.section.ragdollpushmod.common.toml": "Ragdoll Push Mod",
+  "ragdollpushmod.configuration.section.ragdollpushmod.common.toml.title": "Ragdoll Push Mod",
+  "ragdollpushmod.configuration.pushRange": "Push Range",
+  "ragdollpushmod.configuration.pushStrength": "Push Strength",
+  "ragdollpushmod.configuration.pushLift": "Push Lift",
+  "ragdollpushmod.configuration.pushCooldownTicks": "Push Cooldown (ticks)",
+  "ragdollpushmod.configuration.pushMobs": "Push Mobs",
+  "ragdollpushmod.configuration.targetParticles": "Target Particles",
+  "ragdollpushmod.configuration.targetPrompt": "Target Name Tag"
+}
