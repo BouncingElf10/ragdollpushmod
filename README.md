@@ -5,6 +5,8 @@ Adds pushing to [Sable: Player Ragdoll](https://github.com/Leo-T22/sable-player-
 
 Nothing more nothing less, default key is **V** and have fun pushing!
 
+<img width="480" height="270" alt="ezgif-3c5bb7d53580cf6c" src="https://github.com/user-attachments/assets/e1eab4a7-b16b-4818-816b-a5e31ef6c7d1" />
+
 Config
 =======
 | Option | Default | Meaning |
